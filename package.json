@@ -1,0 +1,31 @@
+{
+  "name": "crawl-youtube-videos-from-playlist",
+  "version": "0.1.0",
+  "description": "Crawling YouTube Videos from playlist using Youtube Data v3 API",
+  "main": "crawl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wingkwong/crawl-youtube-videos-from-playlist.git"
+  },
+  "keywords": [
+    "youtube",
+    "youtube-data",
+    "videos",
+    "playlist"
+  ],
+  "author": "wingkwong",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fs": "0.0.1-security"
+  },
+  "author": "wingkwong.code@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wingkwong/crawl-youtube-videos-from-playlist/issues"
+  },
+  "homepage": "https://github.com/wingkwong/crawl-youtube-videos-from-playlist#readme"
+}
